@@ -8,9 +8,9 @@ then
 fi
 
 # check if environment is valid
-if [ "$1" != "home" ] && [ "$1" != "work" ] && [ "$1" != "workmin" ]
+if [ "$1" != "home" ] && [ "$1" != "work" ]
 then
-    echo "Invalid environment parameter, must be one of 'home', 'work' or 'workmin'"
+    echo "Invalid environment parameter, must be 'home' or 'work'
     exit 1
 fi
  
