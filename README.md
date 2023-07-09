@@ -1,6 +1,6 @@
 # Repo for reinstalling macOS
 
-## Install Apple Development Tools (Git)
+## Install Apple Development Tools
 
 ```bash
 xcode-select --install
