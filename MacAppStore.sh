@@ -10,7 +10,7 @@ fi
 # check if environment is valid
 if [ "$1" != "home" ] && [ "$1" != "work" ]
 then
-    echo "Invalid environment parameter, must be 'home' or 'work'
+    echo "Invalid environment parameter, must be 'home' or 'work'"
     exit 1
 fi
 
