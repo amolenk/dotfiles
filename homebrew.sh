@@ -19,6 +19,6 @@ if test ! $(which brew); then
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 fi
 
-brew update
-brew bundle --file Brewfile.essentials
-##brew bundle --file "$1"
+# brew update
+# brew bundle --file Brewfile.essentials
+brew bundle --file Brewfile.$1
