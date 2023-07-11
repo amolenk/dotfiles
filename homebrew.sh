@@ -20,5 +20,5 @@ if test ! $(which brew); then
 fi
 
 # brew update
-# brew bundle --file Brewfile.essentials
+brew bundle --file Brewfile.essentials
 brew bundle --file Brewfile.$1

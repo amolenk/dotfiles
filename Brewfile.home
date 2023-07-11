@@ -1,6 +1,6 @@
-brew "arq"
 brew "bluetoothconnector"
 cask "adguard"
+cask "arq"
 cask "calibre"
 cask "discord"
 cask "docker"
