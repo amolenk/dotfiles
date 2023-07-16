@@ -6,7 +6,6 @@ brew "bat"
 brew "git"
 brew "gitui"
 brew "mas" # A simple command line interface for the Mac App Store.
-brew "mos" # Smooth scrolling for external mouse
 brew "node"
 brew "wget"
 brew "yarn"
@@ -19,6 +18,7 @@ cask "microsoft-excel"
 cask "microsoft-powerpoint"
 cask "microsoft-teams"
 cask "microsoft-word"
+cask "mos" # Smooth scrolling for external mouse
 cask "obsidian"
 cask "onedrive"
 cask "pastebot"
