@@ -18,7 +18,6 @@ cask "microsoft-excel"
 cask "microsoft-powerpoint"
 cask "microsoft-teams"
 cask "microsoft-word"
-cask "mos" # Smooth scrolling for external mouse
 cask "obsidian"
 cask "onedrive"
 cask "pastebot"
