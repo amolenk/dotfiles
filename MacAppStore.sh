@@ -15,8 +15,4 @@ then
 fi
 
 source MacAppStore.essentials.sh
-
-if [ "$1" != "home" ]
-then
-    source MacAppStore.home.sh
-fi
+source MacAppStore.$1.sh

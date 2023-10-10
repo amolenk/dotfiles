@@ -1,7 +1,4 @@
 cask "adguard"
-cask "discord"
-cask "docker"
-cask "fantastical"
 cask "microsoft-outlook"
 cask "typora"
 cask "zoom"
