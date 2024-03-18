@@ -1,0 +1,42 @@
+{
+  "entries": {
+    "cask": {
+      "adguard": {
+        "version": "2.12.1.1398",
+        "options": {
+          "full_name": "adguard"
+        }
+      },
+      "microsoft-outlook": {
+        "version": "16.78.23100802",
+        "options": {
+          "full_name": "microsoft-outlook"
+        }
+      },
+      "typora": {
+        "version": "1.7.5",
+        "options": {
+          "full_name": "typora"
+        }
+      },
+      "zoom": {
+        "version": "5.16.2.23409",
+        "options": {
+          "full_name": "zoom"
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "ventura": {
+        "HOMEBREW_VERSION": "4.1.15",
+        "HOMEBREW_PREFIX": "/opt/homebrew",
+        "Homebrew/homebrew-core": "api",
+        "CLT": "15.0.0.0.1.1694021235",
+        "Xcode": "15.0",
+        "macOS": "13.5"
+      }
+    }
+  }
+}
