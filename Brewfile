@@ -7,6 +7,7 @@ brew "git"
 brew "gitui"
 brew "mas" # A simple command line interface for the Mac App Store.
 brew "node"
+brew "switchaudio-osx"
 brew "wget"
 brew "yarn"
 cask "1password"
